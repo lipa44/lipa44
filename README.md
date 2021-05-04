@@ -1,4 +1,4 @@
-### Hello! 👋
+### Wassup! 👋
 
 My name is Misha, I'm from Saint-Petersburg, Russia.
 
