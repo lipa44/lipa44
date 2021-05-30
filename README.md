@@ -11,3 +11,6 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
 
 - 🕸 My social networks:
     - [Instagram](https://www.instagram.com/dirty_lipa/)
+
+## Some info about me:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipa44&hide=TeX&layout=compact)
