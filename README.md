@@ -33,4 +33,5 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </div>
     
-    
+<p align="right"> 
+ <img src="https://user-images.githubusercontent.com/82240296/124252981-38a23600-db30-11eb-82c0-74fbe96d8f79.png" width="200px" height="200px"> </p>
