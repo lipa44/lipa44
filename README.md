@@ -17,7 +17,7 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lipa44&show_icons=true&locale=en" alt="lipa44" />
 &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&locale=en" alt="lipa44" /></p>
 
-
+<br></br>
 ## <h2 align="center">Languages and Tools:</h3>
 <div align="center"> 
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a>
