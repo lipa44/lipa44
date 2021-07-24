@@ -13,12 +13,12 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
     - [Instagram](https://www.instagram.com/dirty_lipa/)
 
 
-## <h2 align="center">My statistics:</h2>
+<h2 align="center">My statistics:</h2>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lipa44&show_icons=true&locale=en" alt="lipa44" />
 &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&locale=en" alt="lipa44" /></p>
 
 <br></br>
-## <h2 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h3>
 <div align="center"> 
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>
