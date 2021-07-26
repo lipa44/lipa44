@@ -1,37 +1,34 @@
-### <h1 align="center">Wassup! 👋</h1>
+### <h1 align="center">Wassup! <img src="https://i.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.webp" height="40px" align="center"></img></h1>
 
 My name is Misha, I'm from Saint-Petersburg, Russia.
 
-- 👨‍🎓 Studying at ITMO University, 1 course.
+#### 👨‍🎓 Studying at ITMO University, 1 course.
 
-- 👨‍💻 I’m currently learning:
-    - Programming (`C++`)
-    - Algorithms and data structures (`C++`)
-    - Trying to lerarn `JavaScript`/`Html`/`Css` by myself
+#### 👨‍💻 I’m currently learning:
+   - Programming (`C++`)
+   - Algorithms and data structures (`C++`)
+   - Trying to lerarn `JavaScript`/`Html`/`Css` by myself
 
-- 🕸 My social networks:
-    - [Instagram](https://www.instagram.com/dirty_lipa/)
+#### My social networks:
 
+<a href="https://www.instagram.com/dirty_lipa/"><img top="0" src="https://img.shields.io/badge/dirty_lipa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px"></a>
 
-<h2 align="center">My statistics:</h2>
+## My statistics
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lipa44&show_icons=true&locale=en" alt="lipa44" />
 &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&locale=en" alt="lipa44" /></p>
 
-<br></br>
-<h2 align="center">Languages and Tools:</h3>
-<div align="center"> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> 
-    <a href="https://sass-scss.ru" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="80" height="80"/> </a>
-    <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="80" height="80"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a>
-    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="80" height="80"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="80"/> </a>
-</div>
+## Languages and Tools
+   
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Nodejs](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
     
 <br></br>    
 <p align="right"> 
