@@ -20,6 +20,13 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
 <a href="https://github.com/lipa44/lipa44" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/lipa44/lipa44?label=Profile%20updated&style=flat-square"></a>
 
 <!--START_SECTION:waka-->
+```text
+SCSS         2 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   40.40 % 
+HTML         1 hr 33 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.33 % 
+CSS          1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Other        51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+JavaScript   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+```
 <!--END_SECTION:waka-->
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipa44&hide=CMake,Makefile&theme=merko" alt="lipa44" />
