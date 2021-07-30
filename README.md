@@ -19,6 +19,9 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
 <a href="https://github.com/lipa44" target="_blank"><img alt="lipa44" src="https://badges.pufler.dev/visits/lipa44/lipa44?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
 <a href="https://github.com/lipa44/lipa44" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/lipa44/lipa44?label=Profile%20updated&style=flat-square"></a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipa44&hide=CMake,Makefile&theme=merko" alt="lipa44" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&theme=merko" alt="lipa44" /></p>
 
