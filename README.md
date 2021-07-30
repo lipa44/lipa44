@@ -27,7 +27,7 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
    <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/lipa44/lipa44?label=Profile%20updated&style=flat-square">
 </a>
 
-## My current activity
+### My current activity
 
 <!--START_SECTION:waka-->
 ```text
@@ -39,7 +39,7 @@ JavaScript   27 mins         █▓░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## My global activity
+### My global activity
 
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&theme=merko" alt="lipa44" />
