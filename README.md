@@ -11,13 +11,23 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
 
 #### My social networks:
 
-<a href="https://www.instagram.com/dirty_lipa/"><img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px"></a>
+<a href="https://www.instagram.com/dirty_lipa/">
+   <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
+</a>
 
 ## My statistics
 
-<a href="https://github.com/lipa44" target="_blank"><img src="https://komarev.com/ghpvc/?username=lipa44&color=success&style=flat-square" alt="https://github.com/lipa44" /></a>
-<a href="https://github.com/lipa44" target="_blank"><img alt="lipa44" src="https://badges.pufler.dev/visits/lipa44/lipa44?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
-<a href="https://github.com/lipa44/lipa44" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/lipa44/lipa44?label=Profile%20updated&style=flat-square"></a>
+<a href="https://github.com/lipa44" target="_blank">
+   <img src="https://komarev.com/ghpvc/?username=lipa44&color=success&style=flat-square" alt="https://github.com/lipa44" />
+</a>
+<a href="https://github.com/lipa44" target="_blank">
+   <img alt="lipa44" src="https://badges.pufler.dev/visits/lipa44/lipa44?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/>
+</a>
+<a href="https://github.com/lipa44/lipa44" target="_blank">
+   <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/lipa44/lipa44?label=Profile%20updated&style=flat-square">
+</a>
+
+## My current activity
 
 <!--START_SECTION:waka-->
 ```text
@@ -29,10 +39,12 @@ JavaScript   27 mins         █▓░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipa44&hide=CMake,Makefile&theme=merko" alt="lipa44" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&theme=merko" alt="lipa44" /></p>
+## My global activity
 
-<br>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&theme=merko" alt="lipa44" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipa44&layout=compact&hide=CMake,Makefile&theme=merko" alt="lipa44" />
+</p>
 
 ## Languages and Tools
    
@@ -47,6 +59,5 @@ JavaScript   27 mins         █▓░░░░░░░░░░░░░░░
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-<br>
 <p align="right"> 
  <img src="https://user-images.githubusercontent.com/82240296/124252981-38a23600-db30-11eb-82c0-74fbe96d8f79.png" width="200px" height="200px"> </p>
