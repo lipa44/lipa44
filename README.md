@@ -58,6 +58,3 @@ JavaScript   40 mins         ██░░░░░░░░░░░░░░░
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-<p align="right"> 
- <img src="https://user-images.githubusercontent.com/82240296/124252981-38a23600-db30-11eb-82c0-74fbe96d8f79.png" width="200px" height="200px"> </p>
