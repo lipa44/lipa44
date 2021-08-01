@@ -42,7 +42,7 @@ JavaScript   40 mins         ██░░░░░░░░░░░░░░░
 ### My global activity
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
-   <img src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&theme=merko" alt="lipa44" />
+   <img src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&theme=merko&count_private=true" alt="lipa44" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipa44&layout=compact&hide=CMake,Makefile&theme=merko" alt="lipa44" />
 </div>
 
