@@ -31,11 +31,11 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
 
 <!--START_SECTION:waka-->
 ```text
-SCSS         2 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   40.40 % 
-HTML         1 hr 33 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.33 % 
-CSS          1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Other        51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-JavaScript   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+SCSS         3 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   38.07 % 
+HTML         1 hr 53 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.59 % 
+CSS          1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Other        1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+JavaScript   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 ```
 <!--END_SECTION:waka-->
 
