@@ -17,13 +17,13 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
 
 ## My statistics
 
-<a href="https://github.com/lipa44" target="_blank">
+<a href="#" target="_blank">
    <img src="https://komarev.com/ghpvc/?username=lipa44&color=success&style=flat-square" alt="https://github.com/lipa44" />
 </a>
-<a href="https://github.com/lipa44" target="_blank">
+<a href="#" target="_blank">
    <img alt="lipa44" src="https://badges.pufler.dev/visits/lipa44/lipa44?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/>
 </a>
-<a href="https://github.com/lipa44/lipa44" target="_blank">
+<a href="#" target="_blank">
    <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/lipa44/lipa44?label=Profile%20updated&style=flat-square">
 </a>
 
@@ -42,6 +42,8 @@ CSS          1 hr 24 mins    █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### My global activity
+
+<img src="https://www.codewars.com/users/lipa44/badges/large" alt="lipa44" />
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
    <img src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&theme=merko&count_private=true" alt="lipa44" />
