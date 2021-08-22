@@ -31,13 +31,13 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2021 - 20 August, 2021
+Week: 15 August, 2021 - 21 August, 2021
 
-JavaScript   21 hrs 38 mins  ████████████████░░░░░░░░░   64.45 % 
-HTML         3 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Text         3 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-SCSS         2 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-CSS          1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+JavaScript   20 hrs 48 mins  ██████████████████░░░░░░░   71.58 % 
+Text         2 hrs 45 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+SCSS         2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+HTML         2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+CSS          52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
 
