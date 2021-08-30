@@ -31,7 +31,7 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 August, 2021 - 28 August, 2021
+Week: 23 August, 2021 - 29 August, 2021
 
 HTML         25 mins         ███████████████▓░░░░░░░░░   63.07 % 
 JSON         7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.38 % 
