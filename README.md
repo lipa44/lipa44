@@ -2,11 +2,10 @@
 
 My name is Misha, I'm from Saint-Petersburg, Russia.
 
-#### 👨‍🎓 Studying at ITMO University, 1 course.
+#### 👨‍🎓 Studying at ITMO University, 2 course.
 
 #### 👨‍💻 I’m currently learning:
-   - Programming (`C++`)
-   - Algorithms and data structures (`C++`)
+   - OOP (`C#`)
    - Trying to lerarn `JavaScript`/`Html`/`Css` by myself
 
 #### My social networks:
