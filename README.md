@@ -30,7 +30,7 @@ My name is Misha, I'm from Saint-Petersburg, Russia.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2021 - 18 September, 2021
+Week: 13 September, 2021 - 19 September, 2021
 
 C#           25 hrs 52 mins  ██████████████████████▓░░   90.46 % 
 Other        2 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
