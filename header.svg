@@ -79,7 +79,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>My name is Misha <br> I'm from Saint-Petersburg, Russia.</h1>
+				<h1>My name is Misha <br/> I'm from Saint-Petersburg, Russia.</h1>
 			</div>
 		</div>
 	</foreignObject>
