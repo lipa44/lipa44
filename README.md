@@ -1,7 +1,5 @@
 ### <h1 align="center">Wassup! <img src="https://i.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.webp" height="40px" align="center"></img></h1>
 
-My name is Misha, I'm from Saint-Petersburg, Russia.
-
 <div align="center">
     <br>
         <a href="#">
