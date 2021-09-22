@@ -2,9 +2,7 @@
 
 <div align="center">
     <br>
-        <a href="#">
-	    <img src="header.svg" height="400" width="800" alt="Click to see the source">
-        </a>
+	<img src="header.svg" height="400" width="800" alt="Click to see the source">
     <br>
 </div>
 
