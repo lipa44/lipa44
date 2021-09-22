@@ -3,7 +3,7 @@
 <div align="center">
     <br>
         <a href="#">
-	    <img src="header.svg" height="40vh" width="100vw" alt="Click to see the source">
+	    <img src="header.svg" height="400" width="800" alt="Click to see the source">
         </a>
     <br>
 </div>
