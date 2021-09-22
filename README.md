@@ -2,6 +2,14 @@
 
 My name is Misha, I'm from Saint-Petersburg, Russia.
 
+<div align="center">
+	<br>
+      <a href="#">
+         <img src="header.svg" width="800" height="400" alt="Click to see the source">
+      </a>
+	<br>
+</div>
+
 #### 👨‍🎓 Studying at ITMO University, 2 course.
 
 #### 👨‍💻 I’m currently learning:
