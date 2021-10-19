@@ -34,12 +34,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 October, 2021 - 17 October, 2021
+Week: 12 October, 2021 - 18 October, 2021
 
-C#           15 hrs 13 mins  ███████████████████▓░░░░░   78.60 % 
-Other        3 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Markdown     44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C#           18 hrs 45 mins  ████████████████████▒░░░░   80.87 % 
+Other        2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Markdown     1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Cocoa        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 <!--END_SECTION:waka-->
 
