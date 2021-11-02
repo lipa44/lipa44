@@ -34,12 +34,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 October, 2021 - 31 October, 2021
+Week: 26 October, 2021 - 01 November, 2021
 
-C#           39 hrs 24 mins  ████████████████████████▒   97.56 % 
-Other        37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+C#      47 hrs 34 mins  ████████████████████████▓   98.84 % 
+Other   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 <!--END_SECTION:waka-->
 
