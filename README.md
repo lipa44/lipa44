@@ -30,6 +30,10 @@
    <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/lipa44/lipa44?label=Profile%20updated&style=flat-square">
 </a>
 
+<a href="https://wakatime.com/@2ab39d17-44a5-4823-8a27-97945eee1ce4">
+	<img src="https://wakatime.com/badge/user/2ab39d17-44a5-4823-8a27-97945eee1ce4.svg" alt="Total time coded since Jul 30 2021" />
+</a>
+
 ### My current activity
 
 <!--START_SECTION:waka-->
