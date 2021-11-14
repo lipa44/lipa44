@@ -14,11 +14,11 @@
 
 #### My social networks:
 
-<a href="www.instagram.com/dirty_lipa/">
+<a href="https://www.instagram.com/dirty_lipa/">
    <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
-<a href="t.me/dirty_lipa">
+<a href="https://t.me/dirty_lipa">
    <img top="0" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
-<a href="open.spotify.com/user/213fpft2wghl5ywvgb8lpz0xp?si=a635583a007043bd">
+<a href="https://open.spotify.com/user/213fpft2wghl5ywvgb8lpz0xp?si=a635583a007043bd">
    <img top="0" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" target="_blank" margin-left="10px">
 </a>
 
