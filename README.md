@@ -14,8 +14,12 @@
 
 #### My social networks:
 
-<a href="https://www.instagram.com/dirty_lipa/">
+<a href="www.instagram.com/dirty_lipa/">
    <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
+<a href="t.me/dirty_lipa">
+   <img top="0" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
+<a href="open.spotify.com/user/213fpft2wghl5ywvgb8lpz0xp?si=a635583a007043bd">
+   <img top="0" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" target="_blank" margin-left="10px">
 </a>
 
 ## My statistics
@@ -58,7 +62,8 @@ XML          22 mins         ▒░░░░░░░░░░░░░░░░
 </div>
 
 ## Languages and Tools
-   
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Nodejs](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
