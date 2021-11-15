@@ -42,13 +42,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2021 - 13 November, 2021
+Week: 08 November, 2021 - 14 November, 2021
 
-C#           25 hrs 41 mins  ███████████████████▓░░░░░   78.13 % 
-Vue.js       2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Other        1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-XML          1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-JavaScript   1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+C#           19 hrs 13 mins  ██████████████████░░░░░░░   71.86 % 
+Vue.js       2 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Other        1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+XML          1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+JavaScript   1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 <!--END_SECTION:waka-->
 
