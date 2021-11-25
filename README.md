@@ -42,12 +42,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-C#         22 hrs 48 mins  ████████████████████████▒   97.43 % 
-XML        26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Csproj     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-textmate   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+C#              22 hrs 6 mins   ████████████████████████░   95.94 % 
+XML             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Csproj          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Solution File   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+textmate        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
 
