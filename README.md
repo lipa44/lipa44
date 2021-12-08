@@ -42,13 +42,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2021 - 06 December, 2021
+Week: 01 December, 2021 - 07 December, 2021
 
-C#              19 hrs 38 mins  █████████████████░░░░░░░░   68.34 % 
-Blazor          4 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Csproj          1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-JSON            34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Solution File   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+C#              19 hrs 56 mins  █████████████████▓░░░░░░░   71.20 % 
+Blazor          4 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Csproj          1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+JSON            34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Solution File   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 <!--END_SECTION:waka-->
 
