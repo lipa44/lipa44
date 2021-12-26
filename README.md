@@ -42,13 +42,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
-C#                     24 hrs 47 mins  ██████████████████████▓░░   90.37 % 
-Csproj                 1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Batchfile              33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-JSON                   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Publish Profile file   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+C#                     21 hrs 59 mins  ██████████████████████▒░░   89.59 % 
+Csproj                 1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Batchfile              33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JSON                   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Publish Profile file   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 <!--END_SECTION:waka-->
 
