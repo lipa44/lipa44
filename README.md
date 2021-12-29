@@ -57,8 +57,9 @@ GitIgnore file   23 mins         ▓░░░░░░░░░░░░░░�
 <img src="https://www.codewars.com/users/lipa44/badges/large" alt="lipa44" />
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
-   <img src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&theme=merko&count_private=true" alt="lipa44" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipa44&layout=compact&hide=CMake,Makefile&theme=merko" alt="lipa44" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lipa44&theme=monokai" alt="stats" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lipa44&theme=monokai" alt="commits" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lipa44&theme=monokai&count_private=true" alt="overall stats" />
 </div>
 
 ## Languages and Tools
