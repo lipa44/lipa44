@@ -42,13 +42,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2021 - 27 December, 2021
+Week: 22 December, 2021 - 28 December, 2021
 
-C#          13 hrs 17 mins  ██████████████████▓░░░░░░   75.07 % 
-Csproj      1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-JSON        54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Batchfile   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-YAML        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+C#               9 hrs 27 mins   ████████████████▒░░░░░░░░   65.16 % 
+Csproj           1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+JSON             1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Batchfile        36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+GitIgnore file   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 <!--END_SECTION:waka-->
 
