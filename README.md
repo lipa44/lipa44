@@ -42,13 +42,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
-C#               15 hrs 31 mins  ██████████████████████▓░░   90.42 % 
-Markdown         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Csproj           28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-JSON             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+C#               13 hrs 44 mins  ██████████████████████▒░░   89.78 % 
+Markdown         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Csproj           24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+JSON             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 <!--END_SECTION:waka-->
 
