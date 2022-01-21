@@ -42,7 +42,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
 C#               2 hrs 9 mins    ██████████████████▒░░░░░░   72.85 % 
 Csproj           13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
