@@ -42,13 +42,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2022 - 20 January, 2022
+Week: 15 January, 2022 - 21 January, 2022
 
-C#               2 hrs 9 mins    ██████████████████▒░░░░░░   72.85 % 
-Csproj           13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Solution File    10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-GitIgnore file   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-XML              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+VB.NET          5 mins          ███████████▓░░░░░░░░░░░░░   46.45 % 
+C#              4 mins          ███████████▒░░░░░░░░░░░░░   45.07 % 
 ```
 <!--END_SECTION:waka-->
 
