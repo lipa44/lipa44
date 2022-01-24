@@ -42,10 +42,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2022 - 22 January, 2022
+Week: 17 January, 2022 - 23 January, 2022
 
-VB.NET          5 mins          ███████████▓░░░░░░░░░░░░░   46.45 % 
-C#              4 mins          ███████████▒░░░░░░░░░░░░░   45.07 % 
+C#              45 mins         ██████████████████████░░░   87.42 % 
+VB.NET          5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Csproj          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 <!--END_SECTION:waka-->
 
