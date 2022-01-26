@@ -42,7 +42,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2022 - 24 January, 2022
+Week: 19 January, 2022 - 25 January, 2022
 
 C#              45 mins         ██████████████████████░░░   87.42 % 
 VB.NET          5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
