@@ -69,13 +69,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
-C#         18 hrs 16 mins  ██████████████████░░░░░░░   71.74 % 
-Markdown   4 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Csproj     46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Docker     45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-JSON       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+C#              9 hrs 16 mins   ████████████████░░░░░░░░░   63.63 % 
+Markdown        2 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Docker          45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Csproj          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Solution File   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
 
