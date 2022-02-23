@@ -16,5 +16,4 @@ jobs:
           base: ""
           plugin_notable: yes
           plugin_notable_indepth: yes
-          plugin_notable_skipped: >-
-            is-veeam-academy, @is-tech-y24-1, is-oop-y24
+          plugin_notable_skipped: is-veeam-academy, @is-veeam-academy, @is-tech-y24-1, @is-tech-y24-1, @is-oop-y24, is-oop-y24
