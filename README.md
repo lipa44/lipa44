@@ -1,10 +1,8 @@
 ### <h1 align="center">Wassup! <img src="https://i.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.webp" height="40px" align="center"></img></h1>
 
-<div align="center">
-    <br>
+<!-- <div align="center">
 	<img src="header.svg" height="400" width="800" alt="Click to see the source">
-    <br>
-</div>
+</div> -->
 
 #### 👨‍🎓 Studying at ITMO University, 2 course.
 
@@ -58,8 +56,8 @@ C++        1 hr 2 mins     ▓░░░░░░░░░░░░░░░░�
 
 <div display="block">
 	<img align="left" width="48%" alt="isocalendar" src=".github/metrics/isocalendar_metrics.svg" />
-	<img align="center" width="48%" alt="languages" src=".github/metrics/languages_metrics.svg" />
 	<img align="center" width="48%" alt="contributions" src=".github/metrics/contributions_metrics.svg" />
+	<img align="center" width="48%" alt="languages" src=".github/metrics/languages_metrics.svg" />
 </div>
 
 <br/>
