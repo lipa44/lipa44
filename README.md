@@ -56,10 +56,13 @@ C++        1 hr 2 mins     ▓░░░░░░░░░░░░░░░░�
 
 ### Global activity
 
-<img align="left" alt="isocalendar" src=".github/metrics/isocalendar_metrics.svg"></img>
-<img alt="languages" src=".github/metrics/languages_metrics.svg"></img>
-<img alt="contributions" src=".github/metrics/contributions_metrics.svg"></img>
+<div display="block">
+	<img align="left" width="48%" alt="isocalendar" src=".github/metrics/isocalendar_metrics.svg" />
+	<img align="center" width="48%" alt="languages" src=".github/metrics/languages_metrics.svg" />
+	<img align="center" width="48%" alt="contributions" src=".github/metrics/contributions_metrics.svg" />
+</div>
 
+<br/>
 <br/>
 
 ## Languages and Tools
