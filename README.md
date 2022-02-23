@@ -16,12 +16,52 @@
 
 <a href="https://www.instagram.com/dirty_lipa/">
    <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
+</a>
 <a href="https://t.me/dirty_lipa">
    <img top="0" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
+</a>
 <a href="https://open.spotify.com/user/213fpft2wghl5ywvgb8lpz0xp?si=a635583a007043bd">
    <img top="0" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" target="_blank" margin-left="10px">
 </a>
-	
+
+## My statistics
+
+<a href="#" target="_blank">
+   <img src="https://komarev.com/ghpvc/?username=lipa44&color=success&style=flat-square" alt="https://github.com/lipa44" />
+</a>
+<a href="#" target="_blank">
+   <img alt="lipa44" src="https://badges.pufler.dev/visits/lipa44/lipa44?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/>
+</a>
+<a href="#" target="_blank">
+   <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/lipa44/lipa44?label=Profile%20updated&style=flat-square">
+</a>
+
+<a href="https://wakatime.com/@2ab39d17-44a5-4823-8a27-97945eee1ce4">
+	<img src="https://wakatime.com/badge/user/2ab39d17-44a5-4823-8a27-97945eee1ce4.svg" alt="Total time coded since Jul 30 2021" />
+</a>
+
+### Current activity
+
+<!--START_SECTION:waka-->
+```text
+From: 15 February, 2022 - To: 22 February, 2022
+
+C#         20 hrs 6 mins   ████████████████░░░░░░░░░   63.43 % 
+Java       3 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Markdown   3 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Scala      1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+C++        1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+```
+<!--END_SECTION:waka-->
+
+### Global activity
+
+<img align="left" alt="isocalendar" src=".github/metrics/isocalendar_metrics.svg"></img>
+<img alt="languages" src=".github/metrics/languages_metrics.svg"></img>
+<img alt="contributions" src=".github/metrics/contributions_metrics.svg"></img>
+
+<br/>
+
 ## Languages and Tools
 
 ### Base
@@ -56,44 +96,3 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-
-## My statistics
-
-<a href="#" target="_blank">
-   <img src="https://komarev.com/ghpvc/?username=lipa44&color=success&style=flat-square" alt="https://github.com/lipa44" />
-</a>
-<a href="#" target="_blank">
-   <img alt="lipa44" src="https://badges.pufler.dev/visits/lipa44/lipa44?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/>
-</a>
-<a href="#" target="_blank">
-   <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/lipa44/lipa44?label=Profile%20updated&style=flat-square">
-</a>
-
-<a href="https://wakatime.com/@2ab39d17-44a5-4823-8a27-97945eee1ce4">
-	<img src="https://wakatime.com/badge/user/2ab39d17-44a5-4823-8a27-97945eee1ce4.svg" alt="Total time coded since Jul 30 2021" />
-</a>
-
-### My current activity
-
-<!--START_SECTION:waka-->
-```text
-From: 15 February, 2022 - To: 22 February, 2022
-
-C#         20 hrs 6 mins   ████████████████░░░░░░░░░   63.43 % 
-Java       3 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Markdown   3 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Scala      1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-C++        1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-```
-<!--END_SECTION:waka-->
-
-### My global activity
-
-<img src="https://www.codewars.com/users/lipa44/badges/large" alt="lipa44" />
-
-<div display="inline-flex"  align-items="center" justify-content="space-between">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lipa44&theme=monokai" alt="stats" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lipa44&theme=monokai" alt="langs" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lipa44&theme=monokai" alt="overall stats" />
-</div>
