@@ -15,4 +15,4 @@ jobs:
           filename: .github/metrics/isocalendar_metrics.svg
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
