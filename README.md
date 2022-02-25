@@ -22,6 +22,8 @@
    <img top="0" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" target="_blank" margin-left="10px">
 </a>
 
+---
+
 ## My statistics
 
 <a href="#" target="_blank">
@@ -62,6 +64,8 @@ C++        1 hr 21 mins    █░░░░░░░░░░░░░░░░�
 
 <br/>
 <br/>
+
+---
 
 ## Languages and Tools
 
