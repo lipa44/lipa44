@@ -44,15 +44,18 @@
 #### Current activity
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-C#         31 hrs          ███████████████▒░░░░░░░░░   61.80 % 
-Markdown   5 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Java       5 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Scala      2 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-C++        1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+C#                        30 hrs 28 mins  ████████████████▒░░░░░░░░   64.69 %
+Markdown                  5 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Java                      4 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+Scala                     2 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+XML                       1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+C++                       1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### Global activity
