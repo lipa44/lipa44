@@ -4,14 +4,14 @@
 	<img src="header.svg" height="400" width="800" alt="Click to see the source">
 </div> -->
 
-##### 👨‍🎓 Studying at ITMO University, 2 course.
+👨‍🎓 Studying at ITMO University, 2 course.
 
-##### 👨‍💻 I’m currently learning:
+👨‍💻 I’m currently learning:
    - OOP (`C#`)
    - Backend (`ASP.NET Core`/`Entity Framework`)
    - Unit-testing (`NUnit`/`XUnit` + `AutoFixture` + `Moq`)
 
-##### My social networks:
+### My social networks:
 
 <a href="https://www.instagram.com/dirty_lipa/">
    <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
@@ -23,7 +23,7 @@
    <img top="0" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" target="_blank" margin-left="10px">
 </a>
 
-### My statistics
+## My statistics
 
 ---
 
@@ -41,7 +41,7 @@
 	<img src="https://wakatime.com/badge/user/2ab39d17-44a5-4823-8a27-97945eee1ce4.svg" alt="Total time coded since Jul 30 2021" />
 </a>
 
-#### Current activity
+### Current activity
 
 <!--START_SECTION:waka-->
 
@@ -58,7 +58,7 @@ Csproj                 26 mins         ▒░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-#### Global activity
+### Global activity
 
 <div display="block">
 	<img align="left" width="48%" alt="isocalendar" src=".github/metrics/isocalendar_metrics.svg" />
@@ -70,11 +70,11 @@ Csproj                 26 mins         ▒░░░░░░░░░░░░�
 <br/>
 <br/>
 
-### My skills
+## My skills
 
 ---
 
-#### `Langs`
+### `Langs`
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -86,16 +86,16 @@ Csproj                 26 mins         ▒░░░░░░░░░░░░�
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-#### `Frameworks`
+### `Frameworks`
 ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core%206%20-blueviolet?style=for-the-badge&logo=dotnet)
 ![EF Core](https://img.shields.io/badge/EF%20Core%206%20-informational?style=for-the-badge&logo=dotnet)
 
-#### `Data Bases`
+### `Data Bases`
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### `Tools`
+### `Tools`
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
