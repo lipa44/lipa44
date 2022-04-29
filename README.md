@@ -33,11 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2022 - To: 27 April 2022
+From: 21 April 2022 - To: 28 April 2022
 
-C#                     19 hrs 54 mins  ████████████████▓░░░░░░░░   66.62 %
-SQL                    2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Other                  2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+C#                     19 hrs 24 mins  █████████████████░░░░░░░░   68.60 %
+SQL                    2 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+TypeScript             1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Other                  1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 ```
 
 <!--END_SECTION:waka-->
