@@ -6,7 +6,7 @@
 
 👨‍🎓 ITMO University 2nd year student.
 
-👨‍💻 Junior Developer at HazelTree
+👨‍💻 Junior Developer
 
 👨‍🏫 Currently working on:
    - Dotnet in general (`Roslyn`, `Performance`, `GC`)
