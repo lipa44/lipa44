@@ -33,14 +33,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 June 2022 - To: 20 June 2022
+From: 21 May 2022 - To: 20 June 2022
 
-C#                     7 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.80 %
-Markdown               4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   19.58 %
-JSON                   3 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-XML                    1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-TypeScript             1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Config                 54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Total Time: 84 hrs 41 mins
+
+C#                     35 hrs 44 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.17 %
+JSON                   13 hrs 41 mins  ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.15 %
+TypeScript             6 hrs 40 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.88 %
+Markdown               5 hrs 42 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.74 %
+SQL                    5 hrs 40 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.70 %
+XML                    4 hrs 41 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.53 %
 ```
 
 <!--END_SECTION:waka-->
