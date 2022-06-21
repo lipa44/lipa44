@@ -14,4 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+          SHOW_TOTAL: true
+          TIME_RANGE: last_30_days
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           COMMIT_MESSAGE: Updated the WakaTime Graph with new Metrics
