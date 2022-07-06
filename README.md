@@ -1,9 +1,5 @@
 <h1 align="center">Wassup! <img src="https://i.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.webp" height="40px" align="center"></img></h1>
 
-<!-- <div align="center">
-	<img src="header.svg" height="400" width="800" alt="Click to see the source">
-</div> -->
-
 👨‍🎓 ITMO University 2nd year student.
 
 👨‍💻 Junior Developer (C# + TS)
@@ -12,7 +8,7 @@
    - Dotnet in general (`Roslyn`, `Performance`, `GC`)
    - Backend (`ASP.NET Core`, `IIS`)
    - Databases (`T-SQL`)
-   - Unit-testing (`NUnit`/`XUnit` + `AutoFixture` + `Moq`)
+   - Unit-testing (`NUnit`/`xUnit` + `AutoFixture` + `Moq`)
 
 ### My social networks:
 
@@ -24,7 +20,6 @@
 # My statistics
 
 ![Profile views](https://komarev.com/ghpvc/?username=lipa44&color=success&style=flat-square)
-![Visits](https://badges.pufler.dev/visits/lipa44/lipa44?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square)
 ![Profile updated](https://img.shields.io/github/last-commit/lipa44/lipa44?label=Profile%20updated&style=flat-square)
 [![Wakatime](https://wakatime.com/badge/user/2ab39d17-44a5-4823-8a27-97945eee1ce4.svg)](https://wakatime.com/@2ab39d17-44a5-4823-8a27-97945eee1ce4)
 
