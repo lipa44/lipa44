@@ -2,11 +2,11 @@
 
 👨‍🎓 ITMO University 2nd year student.
 
-👨‍💻 Junior Developer (C# + TS)
+👨‍💻 Junior Web Developer (`C#` + `TS`/`Angular`)
 
 👨‍🏫 Currently working on:
-   - Dotnet in general (`Roslyn`, `Performance`, `GC`)
    - Backend (`ASP.NET Core`, `IIS`)
+   - Frontend/Client-side (`TS`, `Angular`)
    - Databases (`T-SQL`)
    - Unit-testing (`NUnit`/`xUnit` + `AutoFixture` + `Moq`)
 
