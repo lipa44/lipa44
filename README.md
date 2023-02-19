@@ -20,7 +20,6 @@
 # My statistics
 
 ![Profile views](https://komarev.com/ghpvc/?username=lipa44&color=success&style=flat-square)
-![Profile updated](https://img.shields.io/github/last-commit/lipa44/lipa44?label=Profile%20updated&style=flat-square)
 [![Wakatime](https://wakatime.com/badge/user/2ab39d17-44a5-4823-8a27-97945eee1ce4.svg)](https://wakatime.com/@2ab39d17-44a5-4823-8a27-97945eee1ce4)
 
 ## Current activity
@@ -41,18 +40,6 @@ Config                    37 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-## Global activity
-
-<div display="block">
-	<img align="left" width="48%" alt="isocalendar" src=".github/metrics/isocalendar_metrics.svg" />
-	<img align="center" width="48%" alt="contributions" src=".github/metrics/contributions_metrics.svg" />
-	<img align="center" width="48%" alt="languages" src=".github/metrics/languages_metrics.svg" />
-</div>
-
-<br/>
-<br/>
-<br/>
 
 # My skills
 
