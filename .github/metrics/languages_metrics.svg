@@ -16,16 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 414kb of code in 702 edited files across 103 commits over last 13 days</small>
+                <small>estimation from 130kb of code in 380 edited files across 55 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="368.03459981001225" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="368.03459981001225" y="0" width="83.78373821897867" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.8183380289909" y="0" width="5.297350222570929" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.1156882515619" y="0" width="2.884311748438113" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.0741893995803" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.0741893995803" y="0" width="7.373451567047993" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.4476409666283" y="0" width="4.552359033371691" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,24 +36,10 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>246 kB</div>
-                                <div>80.01%</div>
+                                <div>71.9 kB</div>
+                                <div>97.41%</div>
                             </small>
                         </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JavaScript
-                            </div>
-                            <small>
-                                <div>3.55 kB</div>
-                                <div>1.15%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -63,20 +48,22 @@
                                 HTML
                             </div>
                             <small>
-                                <div>56.1 kB</div>
-                                <div>18.21%</div>
+                                <div>731 bytes</div>
+                                <div>0.99%</div>
                             </small>
                         </div>
+                    </section>
+                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                SCSS
+                                JavaScript
                             </div>
                             <small>
-                                <div>1.93 kB</div>
-                                <div>0.63%</div>
+                                <div>1.18 kB</div>
+                                <div>1.6%</div>
                             </small>
                         </div>
                     </section>
