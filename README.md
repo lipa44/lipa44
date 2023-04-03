@@ -2,7 +2,7 @@
 
 👨‍🎓 ITMO University 3rd year student.
 
-👨‍💻 Junior Web Developer (`C#` + `TS`/`Angular`)
+👨‍💻 C# .NET Developer (`C#` + `TS`/`Angular`)
 
 👨‍🏫 Currently working on:
    - Backend (`ASP.NET Core`, `IIS`)
