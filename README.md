@@ -12,7 +12,6 @@
 
 ### My social networks:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white "Connect me!")](https://www.linkedin.com/in/mikhail-libchenko-9b820522a/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Write to me!")](https://t.me/dirty_lipa)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white "Follow to me!")](https://www.instagram.com/dirty_lipa/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white "Chill with me!")](https://open.spotify.com/user/213fpft2wghl5ywvgb8lpz0xp?si=a635583a007043bd)
