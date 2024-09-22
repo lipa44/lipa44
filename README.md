@@ -1,17 +1,17 @@
 <h1 align="center">Wassup! <img src="https://i.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.webp" height="40px" align="center"></img></h1>
 
-👨‍🎓 ITMO University 4th year student.
+👨‍🎓 ITMO University graduate
 
-👨‍💻 C# .NET Developer (`C#` + `TS`/`Angular`)
+👨‍💻 .NET Developer (`C#` + `TS`/`Angular`)
 
 👨‍🏫 Currently working on:
    - Backend (`ASP.NET Core`, `EF Core`)
    - Frontend/Client-side (`TS`, `Angular`)
-   - Databases (`MS SQL`, `PostgeSQL`)
+   - Databases (`PostgeSQL`)
 
 ### My social networks:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Write to me!")](https://t.me/dirty_lipa)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Write to me!")](https://t.me/lipa44)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white "Follow to me!")](https://www.instagram.com/dirty_lipa/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white "Chill with me!")](https://open.spotify.com/user/213fpft2wghl5ywvgb8lpz0xp?si=a635583a007043bd)
 
@@ -46,8 +46,8 @@ HTML                      50 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### `Frameworks`
-![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core%206%20-blueviolet?style=for-the-badge&logo=dotnet)
-![EF Core](https://img.shields.io/badge/EF%20Core%206%20-informational?style=for-the-badge&logo=dotnet)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-blueviolet?style=for-the-badge&logo=dotnet)
+![EF Core](https://img.shields.io/badge/EF%20Core-informational?style=for-the-badge&logo=dotnet)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### `Data Bases`
