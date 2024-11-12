@@ -7,7 +7,7 @@
 👨‍💻 .NET Developer (`C#` + `Angular`)
 
 👨‍🏫 Currently using:
-   - Backend (`.NET 7`, `ASP.NET`, `EF`)
+   - Backend (`.NET 8`, `ASP.NET`, `EF`)
    - Frontend (`Angular 14`, `rxjs`)
    - Databases (`PostgeSQL`, `S3`)
 
