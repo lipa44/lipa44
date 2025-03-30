@@ -9,7 +9,7 @@
 👨‍🏫 Currently using:
    - Backend (`.NET 8`, `ASP.NET`, `EF`)
    - Frontend (`Angular 18`, `rxjs`)
-   - Databases (`PostgeSQL`, `S3`)
+   - Databases (`PostgeSQL`, `ClickHouse`, `S3`)
 
 ### Social networks
 
