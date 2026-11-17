@@ -2,18 +2,45 @@ name: Languages Metrics
 
 on:
   push:
-   branches: [ master ]
+    branches: [ main ]
+    paths:
+      - .github/workflows/languages.yml
+      - .github/scripts/**
 
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
+concurrency:
+  group: languages-metrics-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
+          repository: lowlighter/metrics
+          ref: 65836723097537a54cd8eb90f61839426b4266b6
+          path: .metrics-action
+          persist-credentials: false
+      - name: Restore recent-language support for current GitHub events
+        run: node .github/scripts/patch-metrics.mjs .metrics-action
+      - name: Test recent-language analysis
+        run: node --test .github/scripts/test-push-commits.mjs
+        env:
+          METRICS_ACTION_PATH: .metrics-action
+      - uses: ./.metrics-action
+        with:
+          use_prebuilt_image: no
+          plugins_errors_fatal: yes
+          committer_branch: ${{ github.ref_name }}
           token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
           filename: .github/metrics/languages_metrics.svg
           base: ""
